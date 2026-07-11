@@ -1,0 +1,8 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# 生成物（シミュレーション出力・TLE）
+out/
+momo.tle
